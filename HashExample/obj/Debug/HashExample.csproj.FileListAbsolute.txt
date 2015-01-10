@@ -1,0 +1,5 @@
+C:\code\Hack\HashExample\HashExample\bin\Debug\HashExample.exe
+C:\code\Hack\HashExample\HashExample\bin\Debug\HashExample.pdb
+C:\code\Hack\HashExample\HashExample\obj\Debug\HashExample.exe
+C:\code\Hack\HashExample\HashExample\obj\Debug\HashExample.pdb
+C:\code\Hack\HashExample\HashExample\obj\Debug\HashExample.csprojResolveAssemblyReference.cache
